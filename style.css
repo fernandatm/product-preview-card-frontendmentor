@@ -38,7 +38,7 @@ main {
 	border-bottom-right-radius: 10px;
 }
 
-.produto-info h2 {
+.produto-info h1 {
 	font-family: var(Montserrat);
 	color: var(--Very-dark-blue);
 	text-transform: uppercase;
